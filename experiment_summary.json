@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-11-17T11:00:30.774348+00:00",
+  "source_head": "9c81f83ab9b3e812c5b6be214060c2376d4df0e4",
+  "ledger_rows": 306,
+  "unique_experiment_ids": 286,
+  "duplicate_id_extra_rows": 20,
+  "ledger_state_counts": {
+    "done_complete": 40,
+    "stopped_unknown": 67,
+    "done_earlystop": 191,
+    "running": 2,
+    "crashed": 6
+  },
+  "unique_last_ledger_state_counts": {
+    "done_earlystop": 187,
+    "stopped_unknown": 54,
+    "crashed": 6,
+    "done_complete": 39
+  },
+  "candidate_records": 408,
+  "candidate_stage_counts": {
+    "blocked": 10,
+    "rejected": 323,
+    "complete": 73,
+    "validation": 1,
+    "training": 1
+  },
+  "ledger_and_active_queue_unique_ids": 287,
+  "queue_ids_absent_from_ledger": [
+    "dner4_ef"
+  ],
+  "active_queue": [
+    {
+      "id": "dner4_ef",
+      "status": "running",
+      "pid": 21708,
+      "gpu": "1",
+      "config": "configs/model_base_early_exit_4_dner.yaml",
+      "code_commit": "9c81f83ab9b3e812c5b6be214060c2376d4df0e4",
+      "queue_server": "server-3",
+      "log": "/sdc1/songcl/Project/LightText_project/foreground_checks/2c360ba3ecbd4633bc3590f9f066fcde/dner_native/lighttext/logs/train_model_base_early_exit_4_dner_20261116_232002.log"
+    }
+  ],
+  "source_files": [
+    {
+      "path": "pipeline/experiments.csv",
+      "sha256": "63095afb77ce91bea9767d9f304179ddb9639014f0d2a511dcf36a686392559b"
+    },
+    {
+      "path": "pipeline/research_work.json",
+      "sha256": "990d00fac00e42791f0996cfa30df2b9eeb1afa0f8c8c9c144c55c40ca3c6922"
+    },
+    {
+      "path": "pipeline/queue.json",
+      "sha256": "0456379ad9e07d99ba1d9aaff68524870d13cbd087634b9aaa896051e8b7eb45"
+    },
+    {
+      "path": "pipeline/goal.json",
+      "sha256": "069212a48e080a211931ccaf7e994baa52f3eb433a6ed7c22dd128bea06ab437"
+    }
+  ],
+  "counting_rules": [
+    "Ledger rows are archival records, not guaranteed independent completed runs.",
+    "Unique experiment IDs deduplicate by ID only; repeated seeds/revisions can share an ID.",
+    "Latest means final row in the archival CSV, not inferred chronology.",
+    "Research candidates include drafts/rejected/tests; not all were trained.",
+    "Stored running states are historical registration, not live process evidence.",
+    "max_recorded_best_miou is descriptive across records, not a new evaluation."
+  ]
+}

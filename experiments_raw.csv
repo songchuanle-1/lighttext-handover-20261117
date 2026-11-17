@@ -1,0 +1,307 @@
+finished_at,id,config,server,gpu,state,best_miou,epochs,log_local
+20260708_2,model_base_early_exit_4_text_unet,configs/model_base_early_exit_4_text_unet.yaml,server_3,,done_complete,0.4993,37/50,
+20260713_2,model_base_early_exit_4_text_unet_v4_gate,configs/model_base_early_exit_4_text_unet_v4_gate.yaml,server_3,,done_complete,0.4976,39/50,
+20260710_0,model_base_early_exit_4_text_unet_v2,configs/model_base_early_exit_4_text_unet_v2.yaml,server_3,,done_complete,0.4973,25/50,
+20260703_2,model_base,configs/model_base.yaml,server_3,,done_complete,0.4971,38/50,
+20260704_1,model_base_early_exit_6,configs/model_base_early_exit_6.yaml,server_3,,done_complete,0.4970,31/50,
+20260710_2,model_base_early_exit_4_samp_ga_itc_dec,configs/model_base_early_exit_4_samp_ga_itc_dec.yaml,server_3,,done_complete,0.4963,34/50,
+20260711_2,model_base_early_exit_4_text_unet_v3,configs/model_base_early_exit_4_text_unet_v3.yaml,server_3,,done_complete,0.4960,28/50,
+20260712_2,model_base_early_exit_4_text_unet_v3d,configs/model_base_early_exit_4_text_unet_v3d.yaml,server_3,,done_complete,0.4955,34/50,
+20260715_0,model_base_early_exit_4_text_unet_v5_gate_enc,configs/model_base_early_exit_4_text_unet_v5_gate_enc.yaml,server_3,,done_complete,0.4952,32/50,
+20260708_0,model_base_early_exit_4_samp_ga_itc,configs/model_base_early_exit_4_samp_ga_itc.yaml,server_3,,done_complete,0.4952,32/50,
+20260715_0,model_base_early_exit_4_text_unet_v5_gate_dec,configs/model_base_early_exit_4_text_unet_v5_gate_dec.yaml,server_3,,done_complete,0.4949,36/50,
+20260711_0,model_base_early_exit_4_samp_ga_itc_dyn,configs/model_base_early_exit_4_samp_ga_itc_dyn.yaml,server_3,,done_complete,0.4942,32/50,
+20260705_0,model_base_early_exit_4_samp_ga,configs/model_base_early_exit_4_samp_ga.yaml,server_3,,done_complete,0.4938,34/50,
+20260709_1,model_base_early_exit_4_samp_ga_itc_v2,configs/model_base_early_exit_4_samp_ga_itc_v2.yaml,server_3,,done_complete,0.4931,35/50,
+20260706_0,model_base_early_exit_4_ms_samp_ga,configs/model_base_early_exit_4_ms_samp_ga.yaml,server_3,,done_complete,0.4931,37/50,
+20260712_2,model_base_early_exit_4_text_unet_v3b,configs/model_base_early_exit_4_text_unet_v3b.yaml,server_3,,done_complete,0.4930,35/50,
+20260707_0,model_base_early_exit_4_itc,configs/model_base_early_exit_4_itc.yaml,server_3,,done_complete,0.4929,31/50,
+20260708_1,model_base_early_exit_4_tok_weight,configs/model_base_early_exit_4_tok_weight.yaml,server_3,,done_complete,0.4922,41/50,
+20260710_0,model_base_early_exit_4_samp_ga_itc_ws,configs/model_base_early_exit_4_samp_ga_itc_ws.yaml,server_3,,done_complete,0.4920,31/50,
+20260705_1,model_base_early_exit_4_ms,configs/model_base_early_exit_4_ms.yaml,server_3,,done_complete,0.4919,31/50,
+20260711_1,model_base_early_exit_4_text_unet_v3a,configs/model_base_early_exit_4_text_unet_v3a.yaml,server_3,,done_complete,0.4919,37/50,
+20260706_0,model_base_early_exit_4_distill,configs/model_base_early_exit_4_distill.yaml,server_3,,done_complete,0.4911,43/50,
+20260713_2,model_base_early_exit_4_text_unet_v4_attnpool,configs/model_base_early_exit_4_text_unet_v4_attnpool.yaml,server_3,,done_complete,0.4906,32/50,
+20260703_1,model_base_early_exit_4,configs/model_base_early_exit_4.yaml,server_3,,done_complete,0.4895,34/50,
+20260707_0,model_base_early_exit_4_tok_sp,configs/model_base_early_exit_4_tok_sp.yaml,server_3,,done_complete,0.4873,30/50,
+20260716_1,model_base_early_exit_4_dec4,configs/model_base_early_exit_4_dec4.yaml,server_2,,done_complete,0.4870,33/50,
+20260708_0,model_base_early_exit_4_distill_v2,configs/model_base_early_exit_4_distill_v2.yaml,server_3,,done_complete,0.4861,28/50,
+20260702_1,model_base2,configs/model_base2.yaml,server_3,,done_complete,0.4725,17/50,
+20260702_1,model_base_free3_ms_samp_ga,configs/model_base_free3_ms_samp_ga.yaml,server_3,,done_complete,0.4704,52/50,
+20260702_2,model_base_free3_v3_ms_samp_ga,configs/model_base_free3_v3_ms_samp_ga.yaml,server_3,,done_complete,0.4683,43/50,
+20260626_0,model_base_free3_ms,configs/model_base_free3_ms.yaml,server_3,,done_complete,0.4660,46/50,
+20260627_1,model_base_free3_v3_ms,configs/model_base_free3_v3_ms.yaml,server_3,,done_complete,0.4654,62/50,
+20260703_0,model_base2_free3_ms_samp_ga,configs/model_base2_free3_ms_samp_ga.yaml,server_3,,done_complete,0.4610,39/50,
+20260625_2,model_base_free3,configs/model_base_free3.yaml,server_3,,done_complete,0.4598,56/50,
+20260626_1,model_base_free3_v3_ms_gcon,configs/model_base_free3_v3_ms_gcon.yaml,server_3,,done_complete,0.4585,47/50,
+20260628_0,model_base_free3_ms_finetune,configs/model_base_free3_ms_finetune.yaml,server_3,,done_complete,0.4501,49/50,
+20260705_2,model_base_early_exit_4_unfreeze,configs/model_base_early_exit_4_unfreeze.yaml,server_3,,done_complete,0.4487,19/50,
+20260627_0,model_base_free3_v3_ms_gcon_2stage_inst_globaldec_,configs/model_base_free3_v3_ms_gcon_2stage_inst_globaldec_finetune.yaml,server_3,,done_complete,0.4435,30/50,
+20260716_2,model_base_early_exit_4_dec3,configs/model_base_early_exit_4_dec3.yaml,server_2,,done_complete,0.3494,2/50,
+20260627_0,model_base_free3_v3_ms_gcon_2stage_inst_globaldec_,configs/model_base_free3_v3_ms_gcon_2stage_inst_globaldec_retrieval.yaml,server_3,,done_complete,0.0106,2/50,
+2026-07-19 17:08:14,dec3-rerun,configs/model_base_early_exit_4_dec3.yaml,server-2,?,stopped_unknown,0.4932,28/50,
+2026-07-19 18:08:13,samp_ga_itc,configs/model_base_early_exit_4_samp_ga_itc.yaml,server-2,?,stopped_unknown,0.4901,26/50,
+2026-07-20 07:08:07,samp_ga,configs/model_base_early_exit_4_samp_ga.yaml,server-2,?,stopped_unknown,0.4908,20/50,
+2026-07-20 09:16:36,itc-ablation,configs/model_base_early_exit_4_itc.yaml,server-2,?,stopped_unknown,0.4888,24/50,
+2026-07-20 09:42:02,semcomp-dec5,configs/model_base_early_exit_4_semcomp_dec5.yaml,server-3,?,stopped_unknown,0.4827,26/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_semcomp_dec5/20260719_010350/20260719_010350.log
+2026-07-20 09:42:03,tunet_dec_inj,configs/model_base_early_exit_4_tunet_dec_inj.yaml,server-3,?,stopped_unknown,0.4924,25/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_dec_inj/20260719_010404/20260719_010404.log
+2026-07-20 10:08:14,tunet_samp_ga,configs/model_base_early_exit_4_tunet_samp_ga.yaml,server-3,?,stopped_unknown,?,1/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_samp_ga/20260720_091910/20260720_091910.log
+2026-07-21 13:08:10,tunet_sgate,configs/model_base_early_exit_4_tunet_sgate.yaml,server-2,?,stopped_unknown,0.4962,23/50,
+2026-07-21 13:08:10,tunet_ms,configs/tunet_ms/model_base_early_exit_4_tunet_ms.yaml,server-3,?,stopped_unknown,0.4940,21/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_ms/20260720_094513/20260720_094513.log
+2026-07-21 19:08:14,semcomp,configs/model_base_early_exit_4_semcomp.yaml,server-2,?,stopped_unknown,0.4887,25/50,
+2026-07-21 19:08:31,tunet_itc,configs/model_base_early_exit_4_tunet_itc.yaml,server-3,?,stopped_unknown,0.4973,25/50,
+2026-07-21 20:08:13,tunet_qitc,configs/tunet_qitc/model_base_early_exit_4_tunet_qitc.yaml,server-3,?,stopped_unknown,?,?,
+2026-07-22 20:08:23,tunet_samp_ga_dyn,configs/tunet_samp_ga_dyn/model_base_early_exit_4_tunet_samp_ga_dyn.yaml,server-2,?,stopped_unknown,0.4917,24/50,
+2026-07-22 20:08:24,tunet_xattn,configs/tunet_xattn/model_base_early_exit_4_tunet_xattn.yaml,server-2,?,stopped_unknown,?,?,
+2026-07-22 23:08:37,tunet_itc_hn,configs/tunet_itc_hn/model_base_early_exit_4_tunet_itc_hn.yaml,server-3,?,stopped_unknown,0.4979,26/50,
+2026-07-22 23:20:37,tunet_ms_xattn,configs/tunet_ms_xattn/model_base_early_exit_4_tunet_ms_xattn.yaml,server-3,?,stopped_unknown,?,?,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_ms_xattn/20260722_230848/20260722_230848.log
+2026-07-23 07:08:14,tunet_ms_v2,configs/tunet_ms/model_base_early_exit_4_tunet_ms.yaml,server-3,?,stopped_unknown,0.4946,26/50,
+2026-07-23 08:05:06,tunet_tokitc,configs/tunet_tokitc/model_base_early_exit_4_tunet_tokitc.yaml,server-2,?,stopped_unknown,0.4962,27/50,
+2026-07-23 09:08:12,tunet_ms_sg,configs/model_base_early_exit_4_ms_samp_ga.yaml,server-2,?,stopped_unknown,0.4951,20/50,
+2026-07-23 09:08:14,tunet_xattn_hn,configs/tunet_xattn_hn/model_base_early_exit_4_tunet_xattn_hn.yaml,server-2,?,stopped_unknown,?,?,
+2026-07-24 06:08:13,tunet_xattn_v2,configs/tunet_xattn/model_base_early_exit_4_tunet_xattn.yaml,server-3,?,stopped_unknown,0.4880,23/50,
+2026-07-24 06:30:59,ms_xattn_v2,configs/tunet_ms_xattn/model_base_early_exit_4_tunet_ms_xattn.yaml,server-3,?,stopped_unknown,?,?,
+2026-07-24 11:08:12,tunet_qitc_v2,configs/tunet_qitc/model_base_early_exit_4_tunet_qitc.yaml,server-2,?,stopped_unknown,0.4947,21/50,
+2026-07-24 15:08:11,tunet_itc_v2,configs/model_base_early_exit_4_tunet_itc.yaml,server-2,?,stopped_unknown,0.4891,23/50,
+2026-07-24 15:08:43,itc_hn_v2,configs/tunet_itc_hn/model_base_early_exit_4_tunet_itc_hn.yaml,server-3,?,stopped_unknown,0.4972,24/50,
+2026-07-25 23:08:48,tunet_tgsample,configs/tunet_tgsample/model_base_early_exit_4_tunet_tgsample.yaml,server-2,?,stopped_unknown,0.4978,25/50,
+2026-07-26 00:08:12,tunet_tokrew,configs/tunet_tokrew/model_base_early_exit_4_tunet_tokrew.yaml,server-2,?,stopped_unknown,0.4907,24/50,
+2026-07-26 02:08:13,tunet_scontr,configs/tunet_scontr/model_base_early_exit_4_tunet_scontr.yaml,server-3,?,done_earlystop,0.5028,26/50,
+2026-07-26 06:08:12,tunet_pyramid,configs/tunet_pyramid/model_base_early_exit_4_tunet_pyramid.yaml,server-3,?,stopped_unknown,0.4973,29/50,
+2026-07-27 21:08:01,tunet_scontr_tgs,configs/tunet_scontr_tgs/model_base_early_exit_4_tunet_scontr_tgs.yaml,server-2,0,stopped_unknown,0.4925,25/50,
+2026-07-27 21:08:01,tunet_scontr_str,configs/tunet_scontr_str/model_base_early_exit_4_tunet_scontr_str.yaml,server-2,1,stopped_unknown,0.4971,26/50,
+2026-07-27 21:08:01,tunet_scontr_pyramid,configs/tunet_scontr_pyramid/model_base_early_exit_4_tunet_scontr_pyramid.yaml,server-3,0,stopped_unknown,0.5007,25/50,
+2026-07-27 21:08:01,tunet_scontr_focal,configs/tunet_scontr_focal/model_base_early_exit_4_tunet_scontr_focal.yaml,server-3,1,stopped_unknown,0.4962,25/50,
+2026-07-29 05:08:12,tunet_scontr_w05,configs/tunet_scontr_w05/model_base_early_exit_4_tunet_scontr_w05.yaml,server-2,?,stopped_unknown,0.4979,25/50,
+2026-07-29 07:38:48,tunet_scontr_hn,configs/tunet_scontr_hn/model_base_early_exit_4_tunet_scontr_hn.yaml,server-3,?,stopped_unknown,0.4946,25/50,
+2026-07-29 07:38:49,tunet_scontr_triple,configs/tunet_scontr_triple/model_base_early_exit_4_tunet_scontr_triple.yaml,server-3,?,stopped_unknown,0.4957,26/50,
+2026-07-29 13:04:24,tunet_scontr_qitc,configs/tunet_scontr_qitc/model_base_early_exit_4_tunet_scontr_qitc.yaml,server-2,?,stopped_unknown,0.4987,30/50,
+2026-07-29 13:56:52,tunet_scontr_deep,configs/tunet_scontr_deep/model_base_early_exit_4_tunet_scontr.yaml,server-2,?,stopped_unknown,?,?,
+2026-07-30 08:00:43,tunet_scontr_w003,configs/tunet_scontr_w003/model_base_early_exit_4_tunet_scontr_w003.yaml,server-2,?,stopped_unknown,0.4966,21/50,
+2026-07-30 09:08:12,tunet_spcontr2,configs/tunet_spcontr/model_base_early_exit_4_tunet_spcontr.yaml,server-2,?,stopped_unknown,?,1/50,
+2026-07-30 09:08:13,tunet_scontr_no_matchlast,configs/tunet_scontr_no_matchlast/model_base_early_exit_4_tunet_scontr.yaml,server-2,?,stopped_unknown,?,?,
+20260730_0912,tunet_spcontr2,configs/tunet_spcontr/model_base_early_exit_4_tunet_spcontr.yaml,server-2,1,stopped_unknown,?,1/50,
+20260730_0912,tunet_scontr_no_matchlast,configs/tunet_scontr_no_matchlast/model_base_early_exit_4_tunet_scontr.yaml,server-2,1,stopped_unknown,?,?,
+2026-07-30 09:14:44,tunet_scontr_no_align,configs/tunet_scontr_no_align/model_base_early_exit_4_tunet_scontr.yaml,server-2,1,running,?,0/50,
+2026-07-30 10:06:29,tunet_scontr_no_align,configs/tunet_scontr_no_align/model_base_early_exit_4_tunet_scontr.yaml,server-2,1,stopped_unknown,?,?,?
+20260801_1312,tunet_lcd,configs/tunet_lcd/model_base_early_exit_4_tunet_lcd.yaml,server-3,1,done_earlystop,0.4991,26/50,
+2026-08-03 05:08:18,tcqi_clsa,configs/tunet_tcqiclsa/model_base_early_exit_4_tunet_tcqiclsa.yaml,server-2,?,stopped_unknown,0.4915,24/50,
+2026-08-03 05:08:20,lcd_w05,configs/tunet_lcd_w05/model_base_early_exit_4_tunet_lcd_w05.yaml,server-3,?,stopped_unknown,0.4966,31/50,
+2026-08-03 05:25:59,tcff,configs/tunet_tcff/model_base_early_exit_4_tunet_tcff.yaml,server-3,?,stopped_unknown,?,?,
+2026-08-03 14:38:22,tunet_tccg_both,configs/tunet_tccg_both/model_base_early_exit_4_tunet_tccg_both.yaml,server-3,1,done_earlystop,0.4946,27/50,
+2026-08-04 01:08:10,tcsm,configs/tunet_tcsm/model_base_early_exit_4_tunet_tcsm.yaml,server-2,?,stopped_unknown,0.4875,21/50,
+2026-08-04 12:08:31,tcda,configs/tunet_tcda/model_base_early_exit_4_tunet_tcda.yaml,server-2,?,done_earlystop,0.4956,23/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_2/model_base_early_exit_4_tunet_tcda/20260802_154021/20260802_154021.log
+2026-08-04 11:58:45,tcsm_tcda,configs/tunet_tcsm_tcda/model_base_early_exit_4_tunet_tcsm_tcda.yaml,server-3,0,done_earlystop,0.4965,22/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcsm_tcda/20260803_061157/20260803_061157.log
+2026-08-04 21:11:14,tcab,configs/tunet_tcab/model_base_early_exit_4_tunet_tcab.yaml,server-3,1,done_earlystop,0.5032,22/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcab/20260803_151221/20260803_151221.log
+2026-08-05 23:12:41,tcla,configs/tunet_tcla/model_base_early_exit_4_tunet_tcla.yaml,server-3,0,done_earlystop,0.4955,26/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcla/20260804_121835/20260804_121835.log
+2026-08-06 04:18:19,tclw,configs/tunet_tclw/model_base_early_exit_4_tunet_tclw.yaml,server-2,0,done_earlystop,0.4937,31/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_2/model_base_early_exit_4_tunet_tclw/20260803_224009/20260803_224009.log
+2026-08-06 04:23:55,tcff,configs/tunet_tcff/model_base_early_exit_4_tunet_tcff.yaml,server-3,1,done_earlystop,0.4978,23/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcff/20260804_211315/20260804_211315.log
+2026-08-06 20:44:20,tcabx,configs/tunet_tcabx/model_base_early_exit_4_tunet_tcabx.yaml,server-2,1,done_earlystop,0.4921,29/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_2/model_base_early_exit_4_tunet_tcabx/20260804_194003/20260804_194003.log
+2026-08-07 05:16:57,tcqca,configs/tunet_tcqca/model_base_early_exit_4_tunet_tcqca.yaml,server-3,0,done_earlystop,0.4978,23/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcqca/20260805_231408/20260805_231408.log
+2026-08-07 10:18:10,tcqb,configs/tunet_tcqb/model_base_early_exit_4_tunet_tcqb.yaml,server-2,0,done_earlystop,0.4922,22/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_2/model_base_early_exit_4_tunet_tcqb/20260805_154316/20260805_154316.log
+2026-08-07 13:12:00,tcxl,configs/tunet_tcxl/model_base_early_exit_4_tunet_tcxl.yaml,server-3,1,done_earlystop,0.4934,24/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcxl/20260806_042423/20260806_042423.log
+2026-08-06 21:26:15,tccx,configs/tunet_tccx/model_base_early_exit_4_tunet_tccx.yaml,server-2,1,done_earlystop,0.4905,24/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_2/model_base_early_exit_4_tunet_tccx/20260806_085752/20260806_085752.log
+2026-08-08 17:14:12,tcfl,configs/tunet_tcfl/model_base_early_exit_4_tunet_tcfl.yaml,server-2,0,done_earlystop,0.4931,23/50,LightText_checkpoints/model_base_early_exit_4_tunet_tcfl/20260806_205750/20260806_205750.log
+2026-08-08 21:33:21,tcfi,configs/tunet_tcfi/model_base_early_exit_4_tunet_tcfi.yaml,server-3,0,done_earlystop,0.4894,29/50,Checkpoints/server_3/model_base_early_exit_4_tunet_tcfi/20260807_061203/20260807_061203.log
+2026-08-08 23:31:00,tcfla,configs/tunet_tcfla/model_base_early_exit_4_tunet_tcfla.yaml,server-3,1,done_earlystop,0.4954,25/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcfla/20260807_131436/20260807_131436.log
+2026-08-09 13:08:13,tcsg,configs/tunet_tcsg/model_base_early_exit_4_tunet_tcsg.yaml,server-2,1,done_earlystop,0.4910,25/50,
+2026-08-10 05:08:21,tcdq,configs/tunet_tcdq/model_base_early_exit_4_tunet_tcdq.yaml,server-2,0,done_earlystop,0.4700,27/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_2/model_base_early_exit_4_tunet_tcdq/20260808_035745/20260808_035745.log
+2026-08-10 07:10:50,tctb,configs/tunet_tctb/model_base_early_exit_4_tunet_tctb.yaml,server-3,0,done_earlystop,0.4935,25/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tctb/20260808_221248/20260808_221248.log
+2026-08-10 17:32:56,tcta,configs/tunet_tcta/model_base_early_exit_4_tunet_tcta.yaml,server-3,?,stopped_unknown,0.4957,27/50,/home/songcl/3dres/project/lighttext_project/Checkpoints/server_3/model_base_early_exit_4_tunet_tcta/20260808_235242/20260808_235242.log
+2026-08-11 10:08:14,tcas,configs/tunet_tcas/model_base_early_exit_4_tunet_tcas.yaml,server-2,?,stopped_unknown,0.4973,27/50,
+2026-08-11 10:08:15,tchd,configs/tunet_tchd/model_base_early_exit_4_tunet_tchd.yaml,server-2,?,stopped_unknown,0.4884,21/50,
+2026-08-11 13:26:59,tcvq,configs/tunet_tcvq/model_base_early_exit_4_tunet_tcvq.yaml,server-3,?,stopped_unknown,0.4885,22/50,
+2026-08-12 09:09:46,tsg2,configs/tunet_tsg2/model_base_early_exit_4_tunet_tsg2.yaml,server-3,1,done_earlystop,0.5008,25/50,/sdc1/songcl/Project/LightText_project/LightText_checkpoints/model_base_early_exit_4_tunet_tsg2/20260810_140035/20260810_140035.log
+2026-08-12 15:16:23,tcfm,configs/tunet_tcfm/model_base_early_exit_4_tunet_tcfm.yaml,server-2,1,stopped_unknown,?,?,
+2026-08-12 10:59:00,pyr3,configs/tunet_pyr3/model_base_early_exit_4_tunet_pyr3.yaml,server-3,?,crashed,0.498,17/50,
+2026-08-12 10:59:00,hn3,configs/tunet_hn3/model_base_early_exit_4_tunet_hn3.yaml,server-3,1,crashed,0.461,7/50,
+2026-08-12 10:59:00,tcdt,configs/tunet_tcdt/model_base_early_exit_4_tunet_tcdt.yaml,server-2,0,crashed,0.490,19/50,
+2026-08-12 10:59:00,tcia,configs/tunet_tcia/model_base_early_exit_4_tunet_tcia.yaml,server-2,1,crashed,0.493,20/50,
+2026-08-12 11:18:25,tcqf,configs/tunet_tcqf/model_base_early_exit_4_tunet_tcqf.yaml,server-2,0,crashed,,,
+2026-08-13 05:27:28,itcmulti,configs/tunet_itcmulti/model_base_early_exit_4_tunet_itcmulti.yaml,server-3,0,done_earlystop,0.4940,15/50,
+2026-08-13 08:07:23,hnfocal,configs/tunet_hnfocal/model_base_early_exit_4_tunet_hnfocal.yaml,server-2,1,done_earlystop,0.4910,17/50,
+2026-08-13 08:27:24,tcsc,configs/tunet_tcsc/model_base_early_exit_4_tunet_tcsc.yaml,server-3,1,done_earlystop,0.4870,17/50,
+2026-08-13 18:16:42,tcst,configs/tunet_tcst/model_base_early_exit_4_tunet_tcst.yaml,server-2,0,done_earlystop,0.4860,24/50,
+2026-08-14 05:07:23,tcmr,configs/tunet_tcmr/model_base_early_exit_4_tunet_tcmr.yaml,server-2,1,done_earlystop,0.4870,17/50,
+2026-08-14 11:16:37,tcvg,configs/tunet_tcvg/model_base_early_exit_4_tunet_tcvg.yaml,server-3,0,done_earlystop,0.4900,23/50,
+2026-08-14 13:07:25,tcdi,configs/tunet_tcdi/model_base_early_exit_4_tunet_tcdi.yaml,server-3,1,done_earlystop,0.4510,22/50,
+2026-08-14 23:07:21,tcfm,configs/tunet_tcfm/model_base_early_exit_4_tunet_tcfm.yaml,server-2,0,done_earlystop,0.4960,22/50,
+2026-08-14 23:12:00,tcqr,configs/tunet_tcqr/model_base_early_exit_4_tunet_tcqr.yaml,server-2,0,running,,,
+2026-08-15 02:07:21,tcqa,configs/tunet_tcqa/model_base_early_exit_4_tunet_tcqa.yaml,server-2,1,done_earlystop,0.4920,17/50,
+2026-08-15 10:07:25,tcgb,configs/tunet_tcgb/model_base_early_exit_4_tunet_tcgb.yaml,server-3,0,done_earlystop,0.4950,18/50,
+2026-08-15 17:27:23,tclg,configs/tunet_tclg/model_base_early_exit_4_tunet_tclg.yaml,server-3,1,done_earlystop,0.4900,22/50,
+2026-08-15 21:27:18,tcrt,configs/tunet_tcrt/model_base_early_exit_4_tunet_tcrt.yaml,server-2,1,done_earlystop,0.4920,16/50,
+2026-08-16 01:07:20,tcqr,configs/tunet_tcqr/model_base_early_exit_4_tunet_tcqr.yaml,server-2,0,done_earlystop,0.4960,20/50,
+2026-08-16 07:27:26,tcfs,configs/tunet_tcfs/model_base_early_exit_4_tunet_tcfs.yaml,server-3,0,done_earlystop,0.4910,17/50,
+2026-08-17 00:27:22,tcgs,configs/tunet_tcgs/model_base_early_exit_4_tunet_tcgs.yaml,server-2,1,done_earlystop,0.4940,22/50,
+2026-08-17 03:07:24,tcqc,configs/tunet_tcqc/model_base_early_exit_4_tunet_tcqc.yaml,server-3,1,done_earlystop,0.4850,26/50,
+2026-08-17 06:27:19,tcig,configs/tunet_tcig/model_base_early_exit_4_tunet_tcig.yaml,server-2,0,done_earlystop,0.4710,23/50,
+2026-08-17 13:07:24,tcms,configs/tunet_tcms/model_base_early_exit_4_tunet_tcms.yaml,server-3,0,done_earlystop,0.4950,23/50,
+2026-08-18 08:38:25,tcrf,configs/tunet_tcrf/model_base_early_exit_4_tunet_tcrf.yaml,server-2,1,done_earlystop,0.4870,26/50,
+2026-08-18 08:38:31,tcad,configs/tunet_tcad/model_base_early_exit_4_tunet_tcad.yaml,server-3,1,done_earlystop,0.5000,22/50,
+2026-08-18 10:38:40,tcps,configs/tunet_tcps/model_base_early_exit_4_tunet_tcps.yaml,server-2,0,done_earlystop,0.4890,22/50,
+2026-08-18 22:39:06,tclf,configs/tunet_tclf/model_base_early_exit_4_tunet_tclf.yaml,server-3,0,done_earlystop,0.4930,25/50,
+2026-08-19 16:37:28,tcap,configs/tunet_tcap/model_base_early_exit_4_tunet_tcap.yaml,server-2,0,done_earlystop,0.4940,21/50,
+2026-08-19 18:37:25,tcss,configs/tunet_tcss/model_base_early_exit_4_tunet_tcss.yaml,server-2,1,done_earlystop,0.4870,26/50,
+2026-08-20 10:37:33,tcma,configs/tunet_tcma/model_base_early_exit_4_tunet_tcma.yaml,server-3,1,done_earlystop,0.4930,16/50,
+2026-08-20 17:04:38,tcar,configs/tunet_tcar/model_base_early_exit_4_tunet_tcar.yaml,server-3,0,done_earlystop,0.4930,21/50,
+2026-08-20 21:27:23,tcsl,configs/tunet_tcsl/model_base_early_exit_4_tunet_tcsl.yaml,server-2,0,done_earlystop,0.4940,21/50,
+2026-08-20 23:27:21,tclq,configs/tunet_tclq/model_base_early_exit_4_tunet_tclq.yaml,server-2,1,done_earlystop,0.4900,22/50,
+2026-08-21 23:27:25,tclg,configs/tunet_tclg/model_base_early_exit_4_tunet_tclg.yaml,server-3,0,done_earlystop,0.4920,21/50,
+2026-08-21 23:27:29,tcpc,configs/tunet_tcpc/model_base_early_exit_4_tunet_tcpc.yaml,server-3,1,done_earlystop,0.4930,21/50,
+2026-08-22 02:07:22,tcrd,configs/tunet_tcrd/model_base_early_exit_4_tunet_tcrd.yaml,server-2,1,done_earlystop,0.4910,21/50,
+2026-08-22 05:07:22,tcsb,configs/tunet_tcsb/model_base_early_exit_4_tunet_tcsb.yaml,server-2,0,done_earlystop,0.4910,23/50,
+2026-08-23 00:08:26,tcxq,configs/tunet_tcxq/model_base_early_exit_4_tunet_tcxq.yaml,server-3,0,done_earlystop,0.4950,19/50,
+2026-08-23 05:09:10,tcmk,configs/tunet_tcmk/model_base_early_exit_4_tunet_tcmk.yaml,server-3,1,done_earlystop,0.4930,23/50,
+2026-08-23 08:09:12,tccm,configs/tunet_tccm/model_base_early_exit_4_tunet_tccm.yaml,server-2,1,done_earlystop,0.4910,24/50,
+2026-08-23 08:09:17,tcql,configs/tunet_tcql/model_base_early_exit_4_tunet_tcql.yaml,server-2,0,done_earlystop,0.4930,21/50,
+2026-08-25 10:27:21,tcav,configs/tunet_tcav/model_base_early_exit_4_tunet_tcav.yaml,server-2,1,done_earlystop,0.4960,19/50,
+2026-08-25 13:07:26,tcae,configs/tunet_tcae/model_base_early_exit_4_tunet_tcae.yaml,server-3,1,done_earlystop,0.4910,20/50,
+2026-08-25 14:07:25,tcaa,configs/tunet_tcaa/model_base_early_exit_4_tunet_tcaa.yaml,server-2,0,done_earlystop,0.4890,21/50,
+2026-08-25 14:07:30,tcaq,configs/tunet_tcaq/model_base_early_exit_4_tunet_tcaq.yaml,server-3,0,done_earlystop,0.4970,21/50,
+2026-08-26 09:07:24,tcas,configs/tunet_tcas/model_base_early_exit_4_tunet_tcas.yaml,server-2,1,done_earlystop,0.4870,18/50,
+2026-08-26 11:07:26,tcda,configs/tunet_tcda/model_base_early_exit_4_tunet_tcda.yaml,server-3,1,done_earlystop,0.4950,17/50,
+2026-08-26 17:07:27,tcls,configs/tunet_tcls/model_base_early_exit_4_tunet_tcls.yaml,server-3,0,done_earlystop,0.4980,21/50,
+2026-08-26 17:27:22,tcrs,configs/tunet_tcrs/model_base_early_exit_4_tunet_tcrs.yaml,server-2,0,done_earlystop,0.4920,21/50,
+2026-08-27 08:07:22,tcsm,configs/tunet_tcsm/model_base_early_exit_4_tunet_tcsm.yaml,server-2,1,done_earlystop,0.4870,19/50,
+2026-08-28 21:27:20,tccq,configs/tunet_tccq/model_base_early_exit_4_tunet_tccq.yaml,server-2,1,done_earlystop,0.4840,18/50,
+2026-08-28 23:35:31,tcqm,configs/tunet_tcqm/model_base_early_exit_4_tunet_tcqm.yaml,server-3,1,done_earlystop,0.4880,19/50,
+2026-08-29 02:06:15,tcqg,configs/tunet_tcqg/model_base_early_exit_4_tunet_tcqg.yaml,server-2,0,done_earlystop,0.4950,21/50,
+2026-08-29 07:07:28,tcps,configs/tunet_tcps/model_base_early_exit_4_tunet_tcps.yaml,server-3,0,done_earlystop,0.4960,25/50,
+2026-08-30 03:30:10,lprd,configs/tunet_lprd/model_base_early_exit_4_tunet_lprd.yaml,server-3,1,done_earlystop,0.4920,19/50,
+2026-08-30 05:33:23,lprg,configs/tunet_lprg/model_base_early_exit_4_tunet_lprg.yaml,server-2,0,done_earlystop,0.4920,20/50,
+2026-08-30 07:07:25,lprc,configs/tunet_lprc/model_base_early_exit_4_tunet_lprc.yaml,server-2,1,done_earlystop,0.4910,22/50,
+2026-08-30 09:07:29,lprr,configs/tunet_lprr/model_base_early_exit_4_tunet_lprr.yaml,server-3,0,done_earlystop,0.4910,19/50,
+2026-08-31 03:41:31,lpra,configs/tunet_lpra/model_base_early_exit_4_tunet_lpra.yaml,server-2,1,done_earlystop,0.4910,16/50,
+2026-08-31 06:07:21,lprm,configs/tunet_lprm/model_base_early_exit_4_tunet_lprm.yaml,server-2,0,done_earlystop,0.4950,18/50,
+2026-08-31 09:46:11,lprh,configs/tunet_lprh/model_base_early_exit_4_tunet_lprh.yaml,server-3,1,done_earlystop,0.4960,21/50,
+2026-08-31 13:46:48,lprx,configs/tunet_lprx/model_base_early_exit_4_tunet_lprx.yaml,server-3,0,done_earlystop,0.4850,21/50,
+2026-09-01 03:50:55,tcab_tsg2,configs/tunet_tcab_tsg2/model_base_early_exit_4_tunet_tcab_tsg2.yaml,server-2,1,done_earlystop,0.4840,19/50,
+2026-09-01 09:53:35,tcab_tsg2_cross,configs/tunet_tcab_tsg2_cross/model_base_early_exit_4_tunet_tcab_tsg2_cross.yaml,server-2,0,done_earlystop,0.4890,21/50,
+2026-09-01 09:53:40,lprs,configs/tunet_lprs/model_base_early_exit_4_tunet_lprs.yaml,server-3,1,done_earlystop,0.4890,18/50,
+2026-09-01 11:54:42,tcmf,configs/tunet_tcmf/model_base_early_exit_4_tunet_tcmf.yaml,server-2,?,stopped_unknown,?,?,
+2026-09-02 06:00:24,tcef,configs/tunet_tcef/model_base_early_exit_4_tunet_tcef.yaml,server-2,1,done_earlystop,0.4920,18/50,
+2026-09-02 14:06:17,tlp,configs/tunet_tlp/model_base_early_exit_4_tunet_tlp.yaml,server-3,0,done_earlystop,0.4910,20/50,
+2026-09-02 19:08:02,tcscg,configs/tunet_tcscg/model_base_early_exit_4_tunet_tcscg.yaml,server-2,0,done_earlystop,0.4930,24/50,
+2026-09-02 19:47:56,tlpo,configs/tunet_tlpo/model_base_early_exit_4_tunet_tlpo.yaml,server-3,1,done_earlystop,0.4840,24/50,
+2026-09-03 02:07:48,tcmf,configs/tunet_tcmf/model_base_early_exit_4_tunet_tcmf.yaml,server-2,1,done_earlystop,0.4870,15/50,
+2026-09-03 18:07:56,tlpv,configs/tunet_tlpv/model_base_early_exit_4_tunet_tlpv.yaml,server-3,0,done_earlystop,0.4840,20/50,
+2026-09-03 19:08:06,tdf,configs/tunet_tdf/model_base_early_exit_4_tunet_tdf.yaml,server-2,0,done_earlystop,0.4940,19/50,
+2026-09-04 13:16:46,tdx,configs/tunet_tdx/model_base_early_exit_4_tunet_tdx.yaml,server-2,1,done_earlystop,0.4960,28/50,
+2026-09-04 13:18:38,tdm,configs/tunet_tdm/model_base_early_exit_4_tunet_tdm.yaml,server-3,?,stopped_unknown,0.4968,25/50,
+2026-09-04 21:07:41,trsm,configs/tunet_trsm/model_base_early_exit_4_tunet_trsm.yaml,server-2,0,done_earlystop,0.4910,20/50,
+2026-09-04 22:08:09,tdc,configs/tunet_tdc/model_base_early_exit_4_tunet_tdc.yaml,server-3,0,done_earlystop,0.4920,22/50,
+2026-09-05 14:07:53,trdg,configs/tunet_trdg/model_base_early_exit_4_tunet_trdg.yaml,server-3,1,done_earlystop,0.5010,19/50,
+2026-09-05 15:07:35,ggwf,configs/tunet_ggwf/model_base_early_exit_4_tunet_ggwf.yaml,server-2,1,done_earlystop,0.4830,21/50,
+2026-09-05 20:09:21,tasr,configs/tunet_tasr/model_base_early_exit_4_tunet_tasr.yaml,server-2,0,done_earlystop,0.4920,18/50,
+2026-09-05 21:07:40,tdpd,configs/tunet_tdpd/model_base_early_exit_4_tunet_tdpd.yaml,server-3,0,done_earlystop,0.4790,18/50,
+2026-09-07 09:44:28,tdqm,configs/tunet_tdqm/model_base_early_exit_4_tunet_tdqm.yaml,server-2,?,stopped_unknown,0.4923,27/50,
+2026-09-07 09:44:30,tdrm,configs/tunet_tdrm/model_base_early_exit_4_tunet_tdrm.yaml,server-2,?,stopped_unknown,0.4897,27/50,
+2026-09-07 09:44:32,tbmf,configs/tunet_tbmf/model_base_early_exit_4_tunet_tbmf.yaml,server-3,?,stopped_unknown,0.4953,24/50,
+2026-09-07 09:44:34,tdrd,configs/tunet_tdrd/model_base_early_exit_4_tunet_tdrd.yaml,server-3,?,stopped_unknown,0.4848,25/50,
+2026-09-08 15:52:55,trdr,configs/tunet_trdr/model_base_early_exit_4_tunet_trdr.yaml,server-3,0,done_earlystop,0.4910,22/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trdr\20260907_094914\20260907_094914.log
+2026-09-08T20:17:08+08:00,tdir,configs/tunet_tdir/model_base_early_exit_4_tunet_tdir.yaml,server-2,0,done_earlystop,0.4916,25/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_tdir\20260906_211134\20260906_211134.log
+2026-09-08T23:10:33+08:00,trtg,configs/tunet_trtg/model_base_early_exit_4_tunet_trtg.yaml,server-2,1,done_earlystop,0.4931,28/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_trtg\20260906_211147\20260906_211147.log
+2026-09-09 00:37:57,trrd,configs/tunet_trrd/model_base_early_exit_4_tunet_trrd.yaml,server-3,1,done_earlystop,0.4877,28/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trrd\20260907_094914\20260907_094914.log
+2026-09-10 03:07:09,trvg,configs/tunet_trvg/model_base_early_exit_4_tunet_trvg.yaml,server-3,?,stopped_unknown,0.4941,23/50,
+2026-09-10 05:07:08,tdtg,configs/tunet_tdtg/model_base_early_exit_4_tunet_tdtg.yaml,server-2,?,stopped_unknown,0.4894,21/50,
+2026-09-10 00:13:13,trvg,configs/tunet_trvg/model_base_early_exit_4_tunet_trvg.yaml,server-3,0,done_earlystop,0.4941,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trvg\20260908_160844\20260908_160844.log
+2026-09-10T07:52:00+08:00,tdtg,configs/tunet_tdtg/model_base_early_exit_4_tunet_tdtg.yaml,server-2,1,done_earlystop,0.4894,21/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_tdtg\20260908_103734\20260908_103734.log
+2026-09-10T08:03:31+08:00,trad,configs/tunet_trad/model_base_early_exit_4_tunet_trad.yaml,server-2,0,done_earlystop,0.4884,26/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_trad\20260908_073917\20260908_073917.log
+2026-09-10 10:28:14,tprd,configs/tunet_tprd/model_base_early_exit_4_tunet_tprd.yaml,server-3,1,done_earlystop,0.4946,24/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_tprd\20260909_010822\20260909_010822.log
+2026-09-11T13:13:20+08:00,tavg,configs/tunet_tavg/model_base_early_exit_4_tunet_tavg.yaml,server-2,1,done_earlystop,0.4920,22/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_tavg\20260909_191938\20260909_191938.log
+2026-09-11 14:02:49,trcf,configs/tunet_trcf/model_base_early_exit_4_tunet_trcf.yaml,server-3,0,done_earlystop,0.4965,22/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trcf\20260910_075049\20260910_075049.log
+2026-09-11 17:04:34,trsp,configs/tunet_trsp/model_base_early_exit_4_tunet_trsp.yaml,server-3,1,done_earlystop,0.4984,22/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trsp\20260910_110812\20260910_110812.log
+2026-09-11T22:29:22+08:00,tqrg,configs/tunet_tqrg/model_base_early_exit_4_tunet_tqrg.yaml,server-2,0,done_earlystop,0.4935,27/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_tqrg\20260909_194701\20260909_194701.log
+2026-09-12T19:28:48+08:00,trwm,configs/tunet_trwm/model_base_early_exit_4_tunet_trwm.yaml,server-2,1,done_earlystop,0.5000,23/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_trwm\20260911_004138\20260911_004138.log
+2026-09-12 20:19:59,trkv,configs/tunet_trkv/model_base_early_exit_4_tunet_trkv.yaml,server-3,0,done_earlystop,0.4984,22/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trkv\20260911_140814\20260911_140814.log
+2026-09-13 01:58:05,trhm,configs/tunet_trhm/model_base_early_exit_4_tunet_trhm.yaml,server-3,1,done_earlystop,0.4950,24/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_tunet_trhm\20260911_171526\20260911_171526.log
+2026-09-13T05:28:19+08:00,trra,configs/tunet_trra/model_base_early_exit_4_tunet_trra.yaml,server-2,0,done_earlystop,0.4959,22/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_trra\20260911_095711\20260911_095711.log
+2026-09-14T03:28:26+08:00,trlw,configs/tunet_trlw/model_base_early_exit_4_tunet_trlw.yaml,server-2,1,done_earlystop,0.4948,24/50,D:\project\lighttext_project\Checkpoints\server_2\model_base_early_exit_4_tunet_trlw\20260912_065720\20260912_065720.log
+2026-09-15 23:01:24,tmei,configs/tunet_tmei/model_base_early_exit_4_tunet_tmei.yaml,server-3,0,done_earlystop,0.4940,24/50,
+2026-09-16 03:02:35,fbr,configs/tunet_fbr/model_base_early_exit_4_tunet_fbr.yaml,server-3,1,done_earlystop,0.4840,22/50,
+2026-09-17 16:47:49,rgs,configs/tunet_rgs/model_base_early_exit_4_tunet_rgs.yaml,server-3,0,done_earlystop,0.4970,23/50,
+2026-09-17 16:47:53,gqs,configs/tunet_gqs/model_base_early_exit_4_tunet_gqs.yaml,server-3,1,done_earlystop,0.4940,22/50,
+2026-09-20 09:22:04,lcdc,configs/tunet_lcdc/model_base_early_exit_4_tunet_lcdc.yaml,server-3,0,done_earlystop,0.4870,28/50,
+2026-09-22 02:27:05,sdca,configs/tunet_sdca/model_base_early_exit_4_tunet_sdca.yaml,server-3,0,done_earlystop,0.5030,25/50,
+2026-09-22 03:27:09,vsdr,configs/tunet_vsdr/model_base_early_exit_4_tunet_vsdr.yaml,server-3,1,done_earlystop,0.4900,29/50,
+2026-09-23 18:27:12,sxdr,configs/tunet_sxdr/model_base_early_exit_4_tunet_sxdr.yaml,server-3,0,done_earlystop,0.4930,27/50,
+2026-09-23 21:58:55,eadf,configs/tunet_eadf/model_base_early_exit_4_tunet_eadf.yaml,server-3,1,done_earlystop,0.4910,22/50,
+2026-09-26 13:27:19,dscs,configs/tunet_dscs/model_base_early_exit_4_tunet_dscs.yaml,server-3,0,stopped_unknown,0.4880,23/50,
+2026-09-26 20:27:08,ttfm,configs/tunet_ttfm/model_base_early_exit_4_tunet_ttfm.yaml,server-3,1,done_earlystop,0.4870,25/50,
+2026-10-02 23:29:49,drcm,configs/tunet_drcm/model_base_early_exit_4_tunet_drcm.yaml,server-3,1,done_earlystop,0.4940,23/50,
+2026-10-03 02:27:49,dcrm,configs/tunet_dcrm/model_base_early_exit_4_tunet_dcrm.yaml,server-3,0,done_earlystop,0.4940,26/50,
+2026-10-04 17:28:00,dcqr-depth-conditioned-query-relations,configs/dcqr/model_base_early_exit_4_dcqr.yaml,server-3,1,done_earlystop,0.4920,25/50,
+2026-10-04 17:28:04,dscr-depth-signed-routing,configs/dscr/model_base_early_exit_4_dscr.yaml,server-3,0,done_earlystop,0.4940,26/50,
+2026-10-05 17:28:39,dsgr-depth-spatial-directed-relations,configs/dsgr/model_base_early_exit_4_dsgr.yaml,server-3,0,done_earlystop,0.4950,24/50,
+2026-10-05 19:28:36,dqts-depth-query-tangent-secant,configs/dqts/model_base_early_exit_4_dqts.yaml,server-3,1,stopped_unknown,0.4930,24/50,
+2026-10-07 18:28:17,drsa-depth-role-source-anchor,configs/drsa/model_base_early_exit_4_drsa.yaml,server-3,0,stopped_unknown,0.4750,28/50,
+2026-10-07 18:28:25,dicm-depth-innovation-covariance-metric,configs/dicm/model_base_early_exit_4_dicm.yaml,server-3,1,done_earlystop,0.4780,24/50,
+2026-10-09 02:28:03,dcps-depth-cross-caption-partition-supervision,configs/dcps/model_base_early_exit_4_dcps.yaml,server-3,0,done_earlystop,0.4970,23/50,
+2026-10-10 02:04:47,dccb-depth-cross-caption-binding,configs/model_base_early_exit_4_dccb.yaml,server-3,0,stopped_unknown,0.4930,23/50,
+2026-10-10T00:28:11.365+08:00,dccb-depth-cross-caption-binding,configs/model_base_early_exit_4_dccb.yaml,server-3,0,done_earlystop,0.4931161403656006,23/50,D:\project\lighttext_project\pipeline\research\dccb_reconciliation_18fbb204\native_tail.txt
+2026-10-11 02:30:33,dpsi-depth-physical-seed-identity,configs/model_base_early_exit_4_dpsi.yaml,server-3,0,stopped_unknown,0.4820,24/50,
+2026-10-11T00:25:38.926000+08:00,dpsi-depth-physical-seed-identity,configs/model_base_early_exit_4_dpsi.yaml,server-3,0,done_earlystop,0.48166635632514954,24/50,D:\project\lighttext_project\pipeline\research\dpsi_terminal_beb4ef70\native_tail.txt
+2026-10-11 04:27:54,dupm-depth-unmatched-physical-mask,configs/model_base_early_exit_4_dupm.yaml,server-3,1,done_earlystop,0.4980,23/50,
+2026-10-11T01:49:43.609000+08:00,dupm-depth-unmatched-physical-mask,configs/model_base_early_exit_4_dupm.yaml,server-3,1,done_earlystop,0.49824997782707214,23/50,D:\project\lighttext_project\pipeline\research\dupm_reconcile_58f9a241\metrics_excerpt.txt
+2026-10-13 04:31:35,dsei-depth-selected-mask-iou-risk,configs/model_base_early_exit_4_dsei.yaml,server-3,0,stopped_unknown,0.4980,23/50,
+2026-10-13T01:54:12.502000+08:00,dsei-depth-selected-mask-iou-risk,configs/model_base_early_exit_4_dsei.yaml,server-3,0,done_earlystop,0.4983731806278229,23/50,
+2026-10-13 12:29:47,dqhr-depth-query-hard-overlap-ranking,configs/model_base_early_exit_4_dqhr.yaml,server-3,1,stopped_unknown,0.4890,23/50,
+2026-10-13T10:12:35.996000+08:00,dqhr-depth-query-hard-overlap-ranking,configs/model_base_early_exit_4_dqhr.yaml,server-3,1,done_earlystop,0.48881688714027405,23/50,D:\project\lighttext_project\pipeline\research\dqhr_reconcile_cdf4ee1a\metrics_excerpt.txt
+2026-10-15 23:29:28,dmsp-depth-mask-support-prior,configs/model_base_early_exit_4_dmsp.yaml,server-3,0,done_earlystop,0.4890,23/50,
+2026-10-16 00:38:23,dcmi-depth-cross-caption-mask-identity,configs/model_base_early_exit_4_dcmi.yaml,server-3,1,done_earlystop,0.4960,26/50,
+2026-10-16 23:07:52,dilt-depth-increment-lexical-transport,configs/model_base_early_exit_4_dilt.yaml,server-3,0,done_earlystop,0.4948,23/50,D:\project\lighttext_project\pipeline\research\two_groups_tick_7ba2b600\dilt_train_original.log
+2026-10-17 12:30:25,dtic-depth-token-interaction-convolution,configs/model_base_early_exit_4_dtic.yaml,server-3,0,done_earlystop,0.4930,23/50,pipeline/research/dtic_terminal_b91dde7c/dtic_train_original.log
+2026-10-18T03:35:36+08:00,dmri-depth-mask-region-increment,configs/model_base_early_exit_4_dmri.yaml,server-3,0,done_earlystop,0.4934,25/50,pipeline/research/dmri_terminal_4803f150/dmri_canonical_metrics.log
+2026-10-22 00:25:03.228932,rcm4_bixt_ref,configs/model_base_early_exit_4_rcm.yaml,server-3,1,done_earlystop,0.4880,25/50,
+2026-10-22 02:31:50.651038,dcov4_r2_ef,configs/model_base_early_exit_4_dcov.yaml,server-3,0,done_earlystop,0.4950,26/50,
+2026-10-22 16:39:21.467772,dtcc4_r2_ef,configs/model_base_early_exit_4_dtcc_r2.yaml,server-3,1,done_earlystop,0.4946,23/50,
+2026-10-22 18:46:55.991089,dqbf4_ef,configs/model_base_early_exit_4_dqbf.yaml,server-3,0,done_earlystop,0.4952,26/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dqbf\20261021_223541\20261021_223541.log
+2026-10-23 12:38:58.679077,dbtc4_r1_ef,configs/model_base_early_exit_4_dbtc.yaml,server-3,1,done_earlystop,0.4952,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dbtc\20261022_164639\20261022_164639.log
+2026-10-23 14:32:38.904529,drva4_ef,configs/model_base_early_exit_4_drva.yaml,server-3,0,done_earlystop,0.4886,25/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_drva\20261022_185316\20261022_185316.log
+2026-10-24 08:33:36.994011,dwca4_r1_ef,configs/model_base_early_exit_4_dwca.yaml,server-3,1,done_earlystop,0.4956,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dwca\20261023_124708\20261023_124708.log
+2026-10-24 12:33:03.072290,dtka4_ef,configs/model_base_early_exit_4_dtka.yaml,server-3,0,done_earlystop,0.4935,26/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dtka\20261023_143341\20261023_143341.log
+2026-10-25 02:28:19.389890,dhla4_ef,configs/model_base_early_exit_4_dhla.yaml,server-3,1,done_earlystop,0.4931,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dhla\20261024_084015\20261024_084015.log
+2026-10-25 08:33:53.605808,dgqf4_ef,configs/model_base_early_exit_4_dgqf.yaml,server-3,0,done_earlystop,0.4959,24/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dgqf\20261024_122345\20261024_122345.log
+2026-10-26 00:26:40.192155,dsca4_ef,configs/model_base_early_exit_4_dsca.yaml,server-3,1,done_earlystop,0.4890,26/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dsca\20261025_023126\20261025_023126.log
+2026-10-26 04:28:12.008017,drga4_ef,configs/model_base_early_exit_4_drga.yaml,server-3,0,done_earlystop,0.4949,25/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_drga\20261025_083110\20261025_083110.log
+2026-10-26 20:27:50.692615,dqhg4_ef,configs/model_base_early_exit_4_dqhg.yaml,server-3,1,done_earlystop,0.4910,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dqhg\20261026_003000\20261026_003000.log
+2026-10-27 02:29:01.445685,daar4_ef,configs/model_base_early_exit_4_daar.yaml,server-3,0,done_earlystop,0.4931,27/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_daar\20261026_042523\20261026_042523.log
+2026-10-27 18:34:29.581318,dlsa4_ef,configs/model_base_early_exit_4_dlsa.yaml,server-3,1,done_earlystop,0.4962,27/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dlsa\20261026_203440\20261026_203440.log
+2026-10-28 02:29:19.404182,dvrn4_ef,configs/model_base_early_exit_4_dvrn.yaml,server-3,0,done_earlystop,0.4918,29/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dvrn\20261027_022446\20261027_022446.log
+2026-10-28 14:28:11.960979,dphm4_ef,configs/model_base_early_exit_4_dphm.yaml,server-3,1,done_earlystop,0.4961,25/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dphm\20261027_183818\20261027_183818.log
+2026-10-29 00:25:47.800592,dvcm4_ef,configs/model_base_early_exit_4_dvcm.yaml,server-3,0,done_earlystop,0.4953,27/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dvcm\20261028_022652\20261028_022652.log
+2026-10-29 08:25:45.501786,deka4_ef,configs/model_base_early_exit_4_deka.yaml,server-3,1,done_earlystop,0.4909,22/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_deka\20261028_143244\20261028_143244.log
+2026-10-29 20:30:54.592377,dtdm4_ef,configs/model_base_early_exit_4_dtdm.yaml,server-3,0,done_earlystop,0.4904,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dtdm\20261029_002237\20261029_002237.log
+2026-10-30 06:27:32.739387,dtgv4_ef,configs/model_base_early_exit_4_dtgv.yaml,server-3,1,done_earlystop,0.4847,27/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dtgv\20261029_083003\20261029_083003.log
+2026-10-30 18:30:08.921656,dvla4_ef,configs/model_base_early_exit_4_dvla.yaml,server-3,0,done_earlystop,0.4943,27/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dvla\20261029_202752\20261029_202752.log
+2026-10-31 02:29:42.475409,dqkn4_ef,configs/model_base_early_exit_4_dqkn.yaml,server-3,1,done_earlystop,0.4936,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dqkn\20261030_063030\20261030_063030.log
+2026-10-31 16:33:14.078331,dcau4_ef,configs/model_base_early_exit_4_dcau.yaml,server-3,0,done_earlystop,0.4948,28/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dcau\20261030_182710\20261030_182710.log
+2026-10-31 22:31:39.237186,dlap4_ef,configs/model_base_early_exit_4_dlap.yaml,server-3,1,done_earlystop,0.4906,26/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dlap\20261031_023108\20261031_023108.log
+2026-11-01 10:24:55.253175,dcpr4_ef,configs/model_base_early_exit_4_dcpr.yaml,server-3,0,done_earlystop,0.4953,24/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dcpr\20261031_185112\20261031_185112.log
+2026-11-02 06:34:17.594351,dprv4_ef,configs/model_base_early_exit_4_dprv.yaml,server-3,0,done_earlystop,0.4922,26/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dprv\20261101_154755\20261101_154755.log
+2026-11-03 00:33:23.789010,drit4_ef,configs/model_base_early_exit_4_drit.yaml,server-3,0,done_earlystop,0.4877,25/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_drit\20261102_103728\20261102_103728.log
+2026-11-03 19:34:10.456160,dpmr4_ef,configs/model_base_early_exit_4_dpmr.yaml,server-3,0,done_earlystop,0.4953,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dpmr\20261103_064004\20261103_064004.log
+2026-11-04 10:32:31.432044,drcv4_ef,configs/model_base_early_exit_4_drcv.yaml,server-3,0,done_earlystop,0.4940,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_drcv\20261103_201509\20261103_201509.log
+2026-11-05 04:37:55.924241,dplf4_ef,configs/model_base_early_exit_4_dplf.yaml,server-3,0,done_earlystop,0.4903,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dplf\20261104_103305\20261104_103305.log
+2026-11-05 10:03:51.602939,dlpm4_ef,configs/model_base_early_exit_4_dlpm.yaml,server-3,1,done_earlystop,0.4889,29/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dlpm\20261104_123834\20261104_123834.log
+2026-11-06 12:40:52.717841,dcje4_ef,configs/model_base_early_exit_4_dcje.yaml,server-3,0,done_earlystop,0.4936,24/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dcje\20261105_214820\20261105_214820.log
+2026-11-07 02:39:02.585276,dplv4_ef,configs/model_base_early_exit_4_dplv.yaml,server-3,1,done_earlystop,0.4939,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dplv\20261106_091308\20261106_091308.log
+2026-11-07 14:51:51.874240,dcse4_ef,configs/model_base_early_exit_4_dcse.yaml,server-3,0,done_earlystop,0.4972,29/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dcse\20261106_165457\20261106_165457.log
+2026-11-07 22:47:19.915326,dpce4_ef,configs/model_base_early_exit_4_dpce.yaml,server-3,1,done_earlystop,0.4927,23/50,D:\project\lighttext_project\Checkpoints\server_3\model_base_early_exit_4_dpce\20261107_070329\20261107_070329.log
+2026-11-09 00:43:58.965972,dopr4_ef,configs/model_base_early_exit_4_dopr.yaml,server-3,0,crashed,?,1/50,
+2026-11-09 01:18:17.054441,dpeg4_ef,configs/model_base_early_exit_4_dpeg.yaml,server-3,1,done_earlystop,0.4986,23/50,
+2026-11-09 20:53:17.206162,dopr4_r1_ef,configs/model_base_early_exit_4_dopr_r1.yaml,server-3,0,done_earlystop,0.4897,26/50,
+2026-11-10 04:44:05.462381,dorw4_ef,configs/model_base_early_exit_4_dorw.yaml,server-3,1,done_earlystop,0.4944,23/50,
+2026-11-10 17:07:10.863794,dtir4_ef,configs/model_base_early_exit_4_dtir.yaml,server-3,0,done_earlystop,0.4955,24/50,
+2026-11-11 02:33:43.104456,dgpr4_ef,configs/model_base_early_exit_4_dgpr.yaml,server-3,1,done_earlystop,0.4933,23/50,
+2026-11-11 11:40:30.417003,drca4_ef,configs/model_base_early_exit_4_drca.yaml,server-3,0,done_earlystop,0.4907,24/50,
+2026-11-12 03:32:21.807312,dsar4_ef,configs/model_base_early_exit_4_dsar.yaml,server-3,1,done_earlystop,0.4876,25/50,
+2026-11-12 13:34:37.473168,dptm4_ef,configs/model_base_early_exit_4_dptm.yaml,server-3,0,done_earlystop,0.4951,24/50,
+2026-11-13 13:29:59.879146,dspr4_ef,configs/model_base_early_exit_4_dspr.yaml,server-3,0,done_earlystop,0.4881,23/50,
+2026-11-13 15:51:01.301930,dwvr4_ef,configs/model_base_early_exit_4_dwvr.yaml,server-3,1,done_earlystop,0.4931,23/50,
+2026-11-14 09:32:29.046101,doam4_ef,configs/model_base_early_exit_4_doam.yaml,server-3,1,done_earlystop,0.4961,23/50,
+2026-11-14 20:30:40.504548,dlor4_ef,configs/model_base_early_exit_4_dlor.yaml,server-3,0,done_earlystop,0.4912,25/50,
+2026-11-15 02:40:09.368408,dcph4_ef,configs/model_base_early_exit_4_dcph.yaml,server-3,1,done_earlystop,0.4922,23/50,
+2026-11-16 02:45:25.488888,dbcr4_ef,configs/model_base_early_exit_4_dbcr.yaml,server-3,1,done_earlystop,0.4956,25/50,
+2026-11-16 12:45:10.999487,dcsr4_ef,configs/model_base_early_exit_4_dcsr.yaml,server-3,0,done_earlystop,0.4853,25/50,

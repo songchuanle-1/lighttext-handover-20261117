@@ -1,0 +1,5 @@
+﻿source,kind,bytes_or_kib,sha256,note
+/sdc1/songcl/IPDN/data/,dataset_and_tokenizer,39144140	/sdc1/songcl/IPDN/data,,"Copy separately, preserve case, dataset pins and licenses."
+/sdc1/songcl/Project/LightText_project/LightText_checkpoints/,all_historical_checkpoints,265825580	/sdc1/songcl/Project/LightText_project/LightText_checkpoints,,Optional full archive; prioritize the original checkpoints actually needed.
+/sdc1/songcl/Project/LightText_project/LightText_checkpoints/model_base_early_exit_4_dner/20261116_232004/best.pth,original_DNER_checkpoint,625387860,e9162ec6f2d41e1e9f8ee4db12f1c620853aad976b1cdbeb1615dbf07bf7bba0,"Original formal run, no new checkpoint load or export."
+/sdc1/songcl/Project/LightText_project/LightText_checkpoints/model_base_early_exit_4_dner/20261116_232004/last.pth,original_DNER_checkpoint,625387860,0207be8dc21120a7f09fa086012efdcb16142824fce0f411daf6f318eb85b69c,"Original formal run, no new checkpoint load or export."
